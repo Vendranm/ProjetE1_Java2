@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RoomRandomizer()
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ RoomRandom\n
+comment1.params=pRoom
+comment1.target=void\ addRooms(Room)
+comment2.params=
+comment2.target=Room\ getRoomRandom()
+numComments=3

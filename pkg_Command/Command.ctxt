@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Command()
+comment0.text=\n\ Create\ a\ command\ object.\ First\ and\ second\ word\ must\ be\ supplied,\ but\n\ either\ one\ (or\ both)\ can\ be\ null.\ The\ command\ word\ should\ be\ null\ to\n\ indicate\ that\ this\ was\ a\ command\ that\ is\ not\ recognised\ by\ this\ game.\n
+comment1.params=
+comment1.target=java.lang.String\ getSecondWord()
+comment1.text=\n\ Return\ the\ second\ word\ of\ this\ command.\ Returns\ null\ if\ there\ was\ no\n\ second\ word.\n
+comment2.params=pS
+comment2.target=void\ setSecondWord(java.lang.String)
+comment2.text=\n\ Sets\ the\ second\ word.\n
+comment3.params=
+comment3.target=boolean\ hasSecondWord()
+comment3.text=\n\ Return\ true\ if\ the\ command\ has\ a\ second\ word.\n
+comment4.params=aPlayer
+comment4.target=void\ execute(pkg_Character.Player)
+comment4.text=\n\ Abstract\ method\ that\ will\ be\ define\ in\ the\ command\ class\n
+numComments=5

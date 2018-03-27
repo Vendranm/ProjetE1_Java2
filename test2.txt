@@ -1,0 +1,11 @@
+go North
+go West
+go North
+look
+back
+go North
+go Down
+grab vitamines
+eat vitamines
+back
+help

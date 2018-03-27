@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GrabCommand()
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ GrabCommand\n
+comment1.params=pPlayer
+comment1.target=void\ execute(pkg_Character.Player)
+comment1.text=\n\ Override\ method\ garbing\ the\ Item\ from\ the\ current\ room\n
+numComments=2

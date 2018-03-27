@@ -1,0 +1,7 @@
+go North
+go East
+grab key
+grab vaccin
+go North
+go East
+grab ovum

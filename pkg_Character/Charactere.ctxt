@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=pN\ pDesc\ pF
+comment0.target=Charactere(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ Character\n
+comment1.params=
+comment1.target=java.lang.String\ getChaName()
+comment1.text=\n\ Return\ the\ name\ of\ the\ character\n
+comment2.params=
+comment2.target=java.lang.String\ getChaDesc()
+comment2.text=\n\ Return\ the\ description\ of\ the\ character\n
+comment3.params=
+comment3.target=java.lang.String\ getChaLongDesc()
+comment3.text=\n\ Return\ a\ String\ with\ the\ name\ and\ description\ of\ the\ character\n
+comment4.params=
+comment4.target=int\ getChaForce()
+comment4.text=\n\ Return\ the\ force\ of\ the\ character\n
+numComments=5

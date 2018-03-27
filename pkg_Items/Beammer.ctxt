@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=pName\ pDescription\ pForce\ pCharged
+comment0.target=Beammer(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment0.text=\n\ Constructor\ of\ the\ class\n
+comment1.params=
+comment1.target=pkg_Room.Room\ getSavedRoom()
+comment1.text=\n\ Returns\ the\ attribut\ aSavedRoom\n
+comment2.params=pSavedRoom
+comment2.target=void\ setSavedRoom(pkg_Room.Room)
+comment2.text=\n\ Sets\ the\ attribut\ aSavedRoom\n
+comment3.params=
+comment3.target=boolean\ isCharged()
+comment3.text=\n\ Returns\ the\ attribut\ aCharged\n
+comment4.params=pCharged
+comment4.target=void\ setCharged(boolean)
+comment4.text=\n\ Sets\ the\ attribut\ aCharged\n
+numComments=5

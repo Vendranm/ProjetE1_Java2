@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=pDesc\ pImage\ pItem\ pCha\ pRandom
+comment0.target=TransporterRoom(java.lang.String,\ java.lang.String,\ pkg_Items.Item,\ pkg_Character.Charactere,\ RoomRandomizer)
+comment0.text=\n\ Constructeur\ d'objets\ de\ classe\ TransporterRoom\n
+comment1.params=pDir
+comment1.target=Room\ getExit(java.lang.String)
+comment2.params=
+comment2.target=Room\ findRandomRoom()
+numComments=3
